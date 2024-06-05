@@ -1,6 +1,6 @@
 # E-commerce Website
 
-This is a simple E-commerce website developed using React.js with Ant Design for the frontend and DummyJSON for the backend. The project demonstrates the basic functionality of an E-commerce platform, including product listings, product details, and a shopping cart.
+This is a simple E-commerce website developed using React.js with Ant Design and Tailwind CSS for the frontend and DummyJSON for the backend. The project demonstrates the basic functionality of an E-commerce platform, including product listings, product details, and a shopping cart.
 
 ## Features
 
@@ -10,5 +10,5 @@ This is a simple E-commerce website developed using React.js with Ant Design for
 
 ## Tech Stack
 
-- **Frontend**: React.js, Ant Design
+- **Frontend**: React.js, Ant Design, Tailwind CSS
 - **Backend**: DummyJSON (mock API for demonstration purposes)
